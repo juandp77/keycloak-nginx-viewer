@@ -11,6 +11,7 @@ The docker-compose.yml has a service called `keycloakutils` which will run once 
 Please wait for roughly 30 seconds before accessing the below URLS:
 
 OHIF: http://127.0.0.1
+
 Orthans Explorer: http://127.0.0.1/pacs-admin
 
 Keycloak Admin: http://127.0.0.1/aut/admin
